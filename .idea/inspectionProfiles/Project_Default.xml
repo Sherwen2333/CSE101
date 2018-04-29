@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="lab.lab4.lab4_driver.*" />
+          <option value="lab.lab6.lab6_driver.*" />
+          <option value="Hw.hw4.homework4_driver.homework4" />
+          <option value="lab.lab10.lab10.*" />
+          <option value="Hw.hw5.homework5.war_classes" />
+          <option value="Hw.hw5.play_war.homework5" />
+          <option value="Hw.hw5.play_war.*" />
+          <option value="Hw.hw5.homework5_driver.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

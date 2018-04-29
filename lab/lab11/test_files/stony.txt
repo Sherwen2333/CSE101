@@ -1,0 +1,21 @@
+   SSSSSSSSSSSSSSS      tttt                                                                        BBBBBBBBBBBBBBBBB                                                         kkkkkkkk
+ SS:::::::::::::::S  ttt:::t                                                                        B::::::::::::::::B                                                        k::::::k
+S:::::SSSSSS::::::S  t:::::t                                                                        B::::::BBBBBB:::::B                                                       k::::::k
+S:::::S     SSSSSSS  t:::::t                                                                        BB:::::B     B:::::B                                                      k::::::k
+S:::::S        ttttttt:::::ttttttt       ooooooooooo   nnnn  nnnnnnnn yyyyyyy           yyyyyyy       B::::B     B:::::Brrrrr   rrrrrrrrr      ooooooooooo      ooooooooooo    k:::::k    kkkkkkk
+S:::::S        t:::::::::::::::::t     oo:::::::::::oo n:::nn::::::::nny:::::y         y:::::y        B::::B     B:::::Br::::rrr:::::::::r   oo:::::::::::oo  oo:::::::::::oo  k:::::k   k:::::k
+ S::::SSSS     t:::::::::::::::::t    o:::::::::::::::on::::::::::::::nny:::::y       y:::::y         B::::BBBBBB:::::B r:::::::::::::::::r o:::::::::::::::oo:::::::::::::::o k:::::k  k:::::k
+  SS::::::SSSSStttttt:::::::tttttt    o:::::ooooo:::::onn:::::::::::::::ny:::::y     y:::::y          B:::::::::::::BB  rr::::::rrrrr::::::ro:::::ooooo:::::oo:::::ooooo:::::o k:::::k k:::::k
+    SSS::::::::SS    t:::::t          o::::o     o::::o  n:::::nnnn:::::n y:::::y   y:::::y           B::::BBBBBB:::::B  r:::::r     r:::::ro::::o     o::::oo::::o     o::::o k::::::k:::::k
+       SSSSSS::::S   t:::::t          o::::o     o::::o  n::::n    n::::n  y:::::y y:::::y            B::::B     B:::::B r:::::r     rrrrrrro::::o     o::::oo::::o     o::::o k:::::::::::k
+            S:::::S  t:::::t          o::::o     o::::o  n::::n    n::::n   y:::::y:::::y             B::::B     B:::::B r:::::r            o::::o     o::::oo::::o     o::::o k:::::::::::k
+            S:::::S  t:::::t    tttttto::::o     o::::o  n::::n    n::::n    y:::::::::y              B::::B     B:::::B r:::::r            o::::o     o::::oo::::o     o::::o k::::::k:::::k
+SSSSSSS     S:::::S  t::::::tttt:::::to:::::ooooo:::::o  n::::n    n::::n     y:::::::y             BB:::::BBBBBB::::::B r:::::r            o:::::ooooo:::::oo:::::ooooo:::::ok::::::k k:::::k
+S::::::SSSSSS:::::S  tt::::::::::::::to:::::::::::::::o  n::::n    n::::n      y:::::y              B:::::::::::::::::B  r:::::r            o:::::::::::::::oo:::::::::::::::ok::::::k  k:::::k
+S:::::::::::::::SS     tt:::::::::::tt oo:::::::::::oo   n::::n    n::::n     y:::::y               B::::::::::::::::B   r:::::r             oo:::::::::::oo  oo:::::::::::oo k::::::k   k:::::k
+ SSSSSSSSSSSSSSS         ttttttttttt     ooooooooooo     nnnnnn    nnnnnn    y:::::y                BBBBBBBBBBBBBBBBB    rrrrrrr               ooooooooooo      ooooooooooo   kkkkkkkk    kkkkkkk
+                                                                            y:::::y
+                                                                           y:::::y
+                                                                          y:::::y
+                                                                         y:::::y
+                                                                        yyyyyyy
